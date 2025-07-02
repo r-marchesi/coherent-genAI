@@ -11,7 +11,7 @@ The integration of multimodal data is critical for precision oncology, but its c
 
 The overall methodology of our work is captured in the figure below, detailing the journey from raw data preprocessing to generative model training and downstream application.
 
-![Project Pipeline Overview](figures/pipeline.png)
+![Project Pipeline Overview](pipeline.png)
 
 
 ## Repository Structure
