@@ -1,6 +1,19 @@
 # Coherent Cross-modal Generation of Synthetic Biomedical Data to Advance Multimodal Precision Medicine
 
-Repository for the paper **"Coherent Cross-modal Generation of Synthetic Biomedical Data to Advance Multimodal Precision Medicine"**, by Raffaele Marchesi, Nicolò Lazzaro, Walter Endrizzi, Gianluca Leonardi, Matteo Pozzi, Flavio Ragni, Stefano Bovo, Monica Moroni, Venet Osmani, Giuseppe Jurman.
+Repository for the paper [**"Coherent Cross-modal Generation of Synthetic Biomedical Data to Advance Multimodal Precision Medicine"**, by Raffaele Marchesi, Nicolò Lazzaro, Walter Endrizzi, Gianluca Leonardi, Matteo Pozzi, Flavio Ragni, Stefano Bovo, Monica Moroni, Venet Osmani, Giuseppe Jurman.](https://www.biorxiv.org/content/early/2025/08/27/2025.08.22.671728)
+
+If you use this repository, please cite:
+
+```plaintext
+@article{marchesi2025coherent,
+  title={Coherent Cross-modal Generation of Synthetic Biomedical Data to Advance Multimodal Precision Medicine},
+  author={Marchesi, Raffaele and Lazzaro, Nicolo and Endrizzi, Walter and Leonardi, Gianluca and Pozzi, Matteo and Ragni, Flavio and Bovo, Stefano and Moroni, Monica and Osmani, Venet and Jurman, Giuseppe},
+  journal={bioRxiv},
+  pages={2025--08},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
 
 ## Abstract
 
