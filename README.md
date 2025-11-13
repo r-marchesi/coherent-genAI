@@ -43,7 +43,6 @@ The raw TCGA data used in this study was sourced from the Open Access tier of Th
 
 To ensure full reproducibility of all downstream analyses, all processed data files (training, validation, test sets) and all generated synthetic data (embeddings from both Coherent Denoising and Multi-Condition models) are available for download at this [link](https://drive.google.com/drive/folders/1npiT7jfAFarHcLNwXkefbRBGjyWXvnCD?usp=sharing).
 
-* **[Download Processed & Generated Data Here (300MB)]** `[YOUR_GOOGLE_DRIVE_LINK_HERE]`
 
 ## Requirements
 
