@@ -36,6 +36,15 @@ The repository is organized into the main analysis codebase and the data preproc
     * `ZZZ_*.ipynb`: Exploratory notebooks for visualizing results and intermediate analyses.
 * `preprocessing_TCGA/`: A sequential, numbered pipeline of scripts to download and process the raw TCGA data into the format required for the analysis.
 
+
+## Data Availability
+
+The raw TCGA data used in this study was sourced from the Open Access tier of The Cancer Genome Atlas (TCGA) and is publicly available for download from the [GDC Data Portal](https://portal.gdc.cancer.gov/) and the [UCSC Xena Hub](https://xenabrowser.net/). The `preprocessing_TCGA/` pipeline in this repository can be used to regenerate the intermediate files from this raw data.
+
+To ensure full reproducibility of all downstream analyses, all processed data files (training, validation, test sets) and all generated synthetic data (embeddings from both Coherent Denoising and Multi-Condition models) are available for download at this [link](https://drive.google.com/drive/folders/1npiT7jfAFarHcLNwXkefbRBGjyWXvnCD?usp=sharing).
+
+* **[Download Processed & Generated Data Here (300MB)]** `[YOUR_GOOGLE_DRIVE_LINK_HERE]`
+
 ## Requirements
 
 Enviroment requirements for this project can be found in `requirements.txt`
