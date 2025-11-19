@@ -21,7 +21,7 @@ Integration of multimodal, multi-omics data is critical for advancing precision 
 
 ## Project Pipeline
 
-![Project Pipeline Overview](pipeline.png)
+![Project Pipeline Overview](pipeline.png) 
 
 
 ## Repository Structure
